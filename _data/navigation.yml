@@ -15,8 +15,8 @@ main:
 #  - title: "CV"
 #    url: /cv/
     
-#  - title: "Guide"
+#  - title: "Guide" #good placeholder
 #    url: /markdown/
 
-  - title: "Talk map"
+  - title: "Past talks"
     url: /talks/  
