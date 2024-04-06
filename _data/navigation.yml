@@ -20,3 +20,6 @@ main:
 
   - title: "Past talks"
     url: /talks/  
+
+  - title: "Contact" #good placeholder
+    url: /info/
