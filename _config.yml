@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Yuri's Homepage"
+title                    : "Yuri Santos' Homepage"
 title_separator          : "-"
 name                     : &name "Yuri Santos Rego"
 description              : &description "personal description"
@@ -33,6 +33,7 @@ author:
   # Academic websites
   arxiv            : "https://arxiv.org/search/?query=yuri+santos+rego&searchtype=all&source=header" # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  lattes           : "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4439396E4"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4821-5521"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

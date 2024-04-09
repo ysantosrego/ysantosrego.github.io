@@ -1,19 +1,31 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a _maranhense_ mathematician hailing from Upaon-Açu, an island in northeastern Brazil. 
+Currently, I am a Lecturer at the University of Lincoln, where I am a member of the [Charlotte Scott Research Centre in Algebra](https://algebra-lincoln.org/). 
 
-A data-driven personal website
+Prior to joining the [School of Mathematics and Physics](https://www.lincoln.ac.uk/smp/) here in Lincoln, I was a _wissenschaftlicher Mitarbeiter_ in the group of [Petra Schwer](https://www.geometry.ovgu.de/) at the Otto-von-Guericke-Universität Magdeburg. I got my PhD from the Universität Bielefeld, advised by [Kai-Uwe Bux](https://www.math.uni-bielefeld.de/~bux/). Before that I got my Master's degree from the Universidade Estadual de Campinas (Unicamp) supervised by [Dessislava Kochloukova](https://www.ime.unicamp.br/~desi/), and my Bachelor degree from the Universidade de Brasília (UnB). In Brasília I was also a member of the groups [PETMat-UnB](https://mat.unb.br/pet/) and [Theory of Computation](https://mat.unb.br/~ayala/TCgroup/index.html) under the guidance of [Mauro Rabelo](https://mat.unb.br/index.php/pessoas/docentes/52-mauro-luiz-rabelo) and [Maurício Ayala-Rincón](http://www.mat.unb.br/ayala/), respectively. 
+
+Research interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am an algebraist by training and a topologist/geometer in spirit, which means I work in group theory. That is, my research concerns properties of spaces and of their symmetries (such as [reflections](https://www.mathsisfun.com/geometry/symmetry-reflection.html)). The fun part is that the term "space" can be interpreted quite broadly, from a [hairy ball](https://www.jstor.org/stable/2320587?origin=crossref&seq=2#metadata_info_tab_contents) to a comic-book-like multiverse known as [Bruhat--Tits building](https://hal.science/file/index/docid/94363/filename/_04a5_Euclidean_buildings_Grenoble_.pdf), from fundamental [geometric shapes](https://mathworld.wolfram.com/PlatonicSolid.html) to model spaces describing the [motion of a robot](https://www.ensta-bretagne.fr/jaulin/paper_cameleon.pdf).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+In this area one can investigate a wide variety of problems. For example, regarding the space we could ask whether there exist serious obstructions in it (such as holes of various dimensions), whether it is curved somehow, what happens when we move "forever" (e.g., "periodically" or "towards infinity"), or whether we can describe what happens over time with an object moving in the given space under certain rules.
+
+As for the symmetries themselves, we might want to know for instance how many there are, whether we can describe them in a simple fashion, how they transform objects in the given space, whether there are points left unchanged by the symmetries, or about the relationship between given sets of symmetries of (not necessarily distinct) spaces.
+
+In more technical terms, my work (so far) lies in combinatorial/geometric group theory and related topics from topology. I have particular interest in cohomological and topological finiteness conditions, Reidemeister classes, and algorithmic questions. As such, I am very fond of geometric, topological, cohomological, combinatorial, and algorithmic aspects of groups and spaces on which they act.
+
+Groups that I like include (but are not limited to) linear groups (algebraic and Lie groups, their (S-)arithmetic counterparts, Coxeter groups, ...), R. Thompson's groups and their relatives, and locally compact (including profinite) groups. In the topological realm I also enjoy things like [knots and links](https://www.ams.org/publications/journals/notices/201705/rnoti-p461.pdf) (and more generally spatial graphs) and questions about low-dimensional spaces.
+
+As a former member of the group of Theory of Compuation in Brasília, I am also interested in formal methods in mathematics and proof assistants. From time to time I am also puzzled by Costas arrays.
+
 
 Getting started
 ======
