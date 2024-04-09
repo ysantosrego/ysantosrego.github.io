@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 ---
 layout: archive
 title: "Written academic work"
@@ -9,6 +8,7 @@ redirect_from:
   - /publications.html
   - /publications/
 ---
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 
 Research Papers
 ------
