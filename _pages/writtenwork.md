@@ -9,14 +9,14 @@ redirect_from:
   - /publications/
 ---
 {% include base_path %}
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 Research Papers
 ------
 ### Published or accepted
-* Ph.D in <p><i class="ai ai-open-acess"></i></p> Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in <i class="ai ai-open-acess">OA</i> Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* _Formalization in PVS of balancing properties necessary for proving security of the Dolev--Yao cascade protocol model_, J. Formaliz. Reason., vol. 6, no. 1, 2013, 31--61. \[Joint with [Maurício Ayala-Rincón](http://www.mat.unb.br/ayala/)\] (<p><i class="ai ai-open-acess ai-3x"></i></p>[journal](http://dx.doi.org/10.6092/issn.1972-5787/3720); full PVS theory: [PVS 5.n](http://www.mat.unb.br/ayala/DY_Full_Theory.tgz), [PVS 6.0](http://www.mat.unb.br/ayala/DY_Full_TheoryPVS6.tgz))
+* _Formalization in PVS of balancing properties necessary for proving security of the Dolev--Yao cascade protocol model_, J. Formaliz. Reason., vol. 6, no. 1, 2013, 31--61. \[Joint with [Maurício Ayala-Rincón](http://www.mat.unb.br/ayala/)\] (<i class="ai ai-open-acess icon-pad-right">OA</i>[journal](http://dx.doi.org/10.6092/issn.1972-5787/3720); full PVS theory: [PVS 5.n](http://www.mat.unb.br/ayala/DY_Full_Theory.tgz), [PVS 6.0](http://www.mat.unb.br/ayala/DY_Full_TheoryPVS6.tgz))
 
 ### Preprints
 
