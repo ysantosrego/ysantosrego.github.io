@@ -6,13 +6,17 @@ author_profile: true
 redirect_from:
   - /publications
   - /publications.html
+  - /publications/
 ---
 
-Education
-======
+Research Papers
+------
+### Preprints
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* _Formalization in PVS of balancing properties necessary for proving security of the Dolev--Yao cascade protocol model_, J. Formaliz. Reason., vol. 6, no. 1, 2013, 31--61. \[Joint with [Maurício Ayala-Rincón](http://www.mat.unb.br/ayala/)\] ([<i class="ai ai-open-acess icon-pad-right"></i>journal](http://dx.doi.org/10.6092/issn.1972-5787/3720); full PVS theory: [PVS 5.n](http://www.mat.unb.br/ayala/DY_Full_Theory.tgz), [PVS 6.0](http://www.mat.unb.br/ayala/DY_Full_TheoryPVS6.tgz))
+
+### Published or accepted
 
 Work experience
 ======
