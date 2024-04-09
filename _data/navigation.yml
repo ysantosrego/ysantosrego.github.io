@@ -1,7 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/  
+  - title: "Publications" #publs in CV style because 'Publications' is terrible for co-authorship
+    url: /pulications/
+#  - title: "List of Publications"
+#    url: /publication/  #original format
 
   - title: "Teaching"
     url: /teaching/    
