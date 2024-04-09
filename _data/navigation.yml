@@ -5,14 +5,18 @@ main:
 #  - title: "List of Publications"
 #    url: /publication/  #original format
 
+  - title: "What's on (or was)"
+    url: /year-archive/
+
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Supervision & Mentoring"
+    url: /supervision/    
+    
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-  - title: "What's on (or was)"
-    url: /year-archive/
+       
     
 #  - title: "CV"
 #    url: /cv/
@@ -20,7 +24,7 @@ main:
 #  - title: "Guide" #good placeholder
 #    url: /markdown/
 
-  - title: "Past talks"
+  - title: "Work travel"
     url: /talks/  
 
   - title: "Contact" #good placeholder
