@@ -8,7 +8,7 @@ redirect_from:
   - /publications.html
   - /publications/
 ---
-<link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+{% include base_path %}
 
 Research Papers
 ------
