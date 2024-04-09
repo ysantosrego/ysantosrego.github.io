@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 ---
 layout: archive
 title: "Written academic work"
