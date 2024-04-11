@@ -14,7 +14,7 @@ Prior to joining the [School of Mathematics and Physics](https://www.lincoln.ac.
 
 I got my PhD from the Universität Bielefeld, advised by [Kai-Uwe Bux](https://www.math.uni-bielefeld.de/~bux/). Before that I got my Master's degree from the Universidade Estadual de Campinas (Unicamp) supervised by [Dessislava Kochloukova](https://www.ime.unicamp.br/~desi/), and my Bachelor's degree from the Universidade de Brasília (UnB). In Brasília I was also a member of the groups [PETMat-UnB](https://mat.unb.br/pet/) and [Theory of Computation](https://mat.unb.br/~ayala/TCgroup/index.html) under the guidance of [Mauro Rabelo](https://mat.unb.br/index.php/pessoas/docentes/52-mauro-luiz-rabelo) and [Maurício Ayala-Rincón](http://www.mat.unb.br/ayala/), respectively. 
 
-[^1]: 🇬🇧 Lecturer ≈ 🇩🇪 unbefristete Juniorprofessur mit strukturiertem Karriereaufstieg auf Professur  ≈ 🇧🇷 professor adjunto ≈ 🇧🇪 docent/premier assistant ≈ 🇺🇸 assistant professor (pre-tenure).
+[^1]: 🇬🇧 Lecturer ≈ 🇩🇪 unbefristete Juniorprofessur mit strukturiertem Karriereaufstieg auf Professur &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ≈ 🇧🇷 professor adjunto ≈ 🇧🇪 docent/premier assistant ≈ 🇺🇸 assistant professor (pre-tenure).
 
 Research interests
 ------
