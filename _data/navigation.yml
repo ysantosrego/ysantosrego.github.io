@@ -6,7 +6,7 @@ main:
 #    url: /publication/  #original format
 
   - title: "What's on (or was)"
-    url: /year-archive/
+    url: /news/
 
   - title: "Teaching"
     url: /teaching/    
