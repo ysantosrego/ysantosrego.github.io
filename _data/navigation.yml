@@ -8,11 +8,13 @@ main:
   - title: "What's on (or was)"
     url: /news/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Supervision & Mentoring"
-    url: /supervision/    
+#temporarily omitted
+#  - title: "Teaching"
+#    url: /teaching/    
+
+#temporarily omitted    
+# - title: "Supervision & Mentoring"
+#    url: /supervision/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -24,8 +26,9 @@ main:
 #  - title: "Guide" #good placeholder
 #    url: /markdown/
 
-  - title: "Work travel"
-    url: /travel/  
+#temporarily omitted
+#  - title: "Work travel"
+#    url: /travel/  
 
   - title: "Events"
     url: /events/
