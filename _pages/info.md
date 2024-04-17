@@ -12,5 +12,5 @@ redirect_from:
 </address>
 
 <br />
-&#9993; ysantosrego \[youknowwhat\] lincoln.ac.uk
+&#9993; ysantosrego \[that-symbol-for-emails\] lincoln.ac.uk
 

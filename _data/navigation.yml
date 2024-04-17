@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications" #publs in CV style because 'Publications' is terrible for co-authorship
-    url: /writtenwork/
+  - title: "Research" #publs in CV style because 'Publications' is terrible for co-authorship
+    url: /research/
 #  - title: "List of Publications"
 #    url: /publication/  #original format
 
@@ -25,7 +25,10 @@ main:
 #    url: /markdown/
 
   - title: "Work travel"
-    url: /talks/  
+    url: /travel/  
+
+  - title: "Events"
+    url: /events/
 
   - title: "Contact" #good placeholder
     url: /info/
