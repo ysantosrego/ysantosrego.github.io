@@ -7,4 +7,4 @@ tags:
   - buildings
 ---
 
-After a forced one-year break due to the Covid-19 pandemic, the annual Buildings Conference took place again in [Magdeburg, 2021](https://www.geometry.ovgu.de/buildings2021.html), in hybrid format. I organised it jointly with [Isobel Davies](http://www.isobeldavies.co.uk/), [Anna Michael](https://www.geometry.ovgu.de/home/Members/Anna+Michael.html) and [Petra Schwer](https://www.geometry.ovgu.de/schwer-path-16,30.html).
+After a forced one-year break due to the [Covid-19 pandemic](https://www.worldometers.info/coronavirus/), the annual [Buildings Conference](https://www.uni-muenster.de/AGKramer/index.php?name=buildings&menu=&lang=de) took place again in [Magdeburg, 2021](https://www.geometry.ovgu.de/buildings2021.html), in hybrid format. I organised it jointly with [Isobel Davies](http://www.isobeldavies.co.uk/), [Anna Michael](https://www.geometry.ovgu.de/home/Members/Anna+Michael.html) and [Petra Schwer](https://www.geometry.ovgu.de/schwer-path-16,30.html).
