@@ -10,8 +10,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-## Research Interests
-
 I am an algebraist by training but consider myself a topologist/geometer in spirit, which means I work in [group theory](https://link.springer.com/book/10.1007/978-1-4757-4034-9#about-this-book). That is, my research concerns properties of spaces and of their symmetries (such as [reflections](https://www.mathsisfun.com/geometry/symmetry-reflection.html)). The fun part is that the term "space" can be interpreted quite broadly, from a [hairy ball](https://www.jstor.org/stable/2320587?origin=crossref&seq=2#metadata_info_tab_contents) to a comic-book-like multiverse known as [Bruhat--Tits building](https://hal.science/file/index/docid/94363/filename/_04a5_Euclidean_buildings_Grenoble_.pdf), from fundamental [geometric shapes](https://mathworld.wolfram.com/PlatonicSolid.html) to model spaces describing the [motion of a robot](https://www.ensta-bretagne.fr/jaulin/paper_cameleon.pdf).
 
 In this area one can investigate a wide variety of problems. For example, regarding the space we could ask whether there exist serious obstructions in it (such as holes of various dimensions), whether it is curved somehow, what happens when we move "forever" (e.g., "periodically" or "towards infinity"), or whether we can describe what happens over time with an object moving in the given space under certain rules.
