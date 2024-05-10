@@ -1,7 +1,7 @@
 body{
 	font-family: DejaVu Sans;
-	background-color: #D3D3D3;
-	font-size: 11pt;
+	background-color: #f0efeb;
+	font-size: 13.5pt;
 }
 
 a{
@@ -9,7 +9,7 @@ a{
 }
 
 div#body{
-	background-color: #FFFFFF;
+	background-color: #fff1e6;
 	box-shadow: 0px 0px 10px #888888;
 	padding: 25px;
 }
