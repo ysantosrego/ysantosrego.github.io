@@ -10,7 +10,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am an algebraist by training but consider myself a topologist/geometer in spirit, which means I work in [group theory](https://link.springer.com/book/10.1007/978-1-4757-4034-9#about-this-book). That is, my research concerns properties of spaces and of their symmetries (such as [reflections](https://www.mathsisfun.com/geometry/symmetry-reflection.html)). The fun part is that the term "space" can be interpreted quite broadly, from a [hairy ball](https://www.jstor.org/stable/2320587?origin=crossref&seq=2#metadata_info_tab_contents) to a comic-book-like multiverse known as [Bruhat--Tits building](https://hal.science/file/index/docid/94363/filename/_04a5_Euclidean_buildings_Grenoble_.pdf), from fundamental [geometric shapes](https://mathworld.wolfram.com/PlatonicSolid.html) to model spaces describing the [motion of a robot](https://www.ensta-bretagne.fr/jaulin/paper_cameleon.pdf).
+<span style="font-size:0.75em;">I am an algebraist by training but consider myself a topologist/geometer in spirit, which means I work in [group theory](https://link.springer.com/book/10.1007/978-1-4757-4034-9#about-this-book). That is, my research concerns properties of spaces and of their symmetries (such as [reflections](https://www.mathsisfun.com/geometry/symmetry-reflection.html)). The fun part is that the term "space" can be interpreted quite broadly, from a [hairy ball](https://www.jstor.org/stable/2320587?origin=crossref&seq=2#metadata_info_tab_contents) to a comic-book-like multiverse known as [Bruhat--Tits building](https://hal.science/file/index/docid/94363/filename/_04a5_Euclidean_buildings_Grenoble_.pdf), from fundamental [geometric shapes](https://mathworld.wolfram.com/PlatonicSolid.html) to model spaces describing the [motion of a robot](https://www.ensta-bretagne.fr/jaulin/paper_cameleon.pdf).
 
 In this area one can investigate a wide variety of problems. For example, regarding the space we could ask whether there exist serious obstructions in it (such as holes of various dimensions), whether it is curved somehow, what happens when we move "forever" (e.g., "periodically" or "towards infinity"), or whether we can describe what happens over time with an object moving in the given space under certain rules.
 
@@ -20,7 +20,7 @@ In more technical terms, my work (so far) lies in combinatorial/geometric group 
 
 Groups that I like include (but are not limited to) linear groups (algebraic and Lie groups, their (S-)arithmetic counterparts, Coxeter groups, ...), R. Thompson's groups and their relatives, and locally compact (including profinite) groups. In the topological realm I also enjoy things like [knots and links](https://www.ams.org/publications/journals/notices/201705/rnoti-p461.pdf) (and more generally spatial graphs) and questions about low-dimensional spaces.
 
-As a former member of the group of Theory of Compuation in Brasília, I am also interested in formal methods in mathematics and proof assistants. From time to time I am also puzzled by Costas arrays.
+As a former member of the group of Theory of Compuation in Brasília, I am also interested in formal methods in mathematics and proof assistants. From time to time I am also puzzled by Costas arrays.</span>
 
 ## Research Papers
 
