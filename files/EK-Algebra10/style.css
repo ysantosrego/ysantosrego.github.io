@@ -18,6 +18,10 @@ div.personalpicture img{
 	width: 100%;	
 }
 
+div.centralpicture img{
+	width: 100%;	
+}
+
 div.adress{
 	padding: 15px;
 }
