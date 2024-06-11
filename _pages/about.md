@@ -9,6 +9,7 @@ redirect_from:
 
 I am a _maranhense_ mathematician from Upaon-Açu, an island in northeastern Brazil. 
 Currently, I am a Lecturer[^1] at the University of Lincoln, where I am affiliated to the [Charlotte Scott Research Centre for Algebra](https://algebra-lincoln.org/). 
+
 I am also a member of the [London Mathematical Society](https://www.lms.ac.uk/) and currently serve in the Editorial Board of the [Newsletter of the LMS](https://www.lms.ac.uk/publications/lms-newsletter). If you would like to contribute with a "book" review[^2] for the Newsletter, feel free to drop me a line! 
 
 #### Past journey
