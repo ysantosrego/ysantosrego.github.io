@@ -1,6 +1,6 @@
 ---
 permalink: /events/
-title: "Organised conferences"
+title: "Conferences organised"
 author_profile: true
 redirect_from: 
   - /events.html
@@ -8,10 +8,10 @@ redirect_from:
   - /conferences.html
 ---
 
-Here you can find links to the mathematics conferences that I (co-)organise(d)[^1]. If the event is upcoming, you can find a registration form in the corresponding homepage.
+Here you can find links to the mathematics conferences that I (co-)organise(d)[^1]. If the event is forthcoming, you can find a registration form in the corresponding homepage.
 
 * Mini-Workshop _[Trending aspects in group cohomology](/files/cna/)_, **2-3 July 2024**, Lincoln, UK.
-* Conference _[10 Years of Algebra at Lincoln](/files/EK-Algebra10/)_, **12-14 June 2024, Online**.
+* Conference _[10 Years of Algebra at Lincoln](/files/EK-Algebra10/)_, 12-14 June 2024, Online.
 * GoTh Workshop: _[Groups of Thompson and their relatives](https://trr358.math.uni-bielefeld.de/workshops/view/146)_, 18-22 September 2023, Magdeburg, Germany.
 * _[Young Geometric Group Theory 2023](https://www.uni-muenster.de/GGT/YGGT/)_ (YGGT XI), 13-17 February 2023, Münster, Germany.
 * Mini-Workshop _[Reflection groups](https://www.geometry.ovgu.de/MiniReflection.html)_, 8-9 February 2023, Magdeburg, Germany.
