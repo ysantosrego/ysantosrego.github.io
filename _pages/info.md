@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <address>
-  University of Lincoln<br /> School of Mathematics & Physics<br /> Isaac Newton Building, Brayford Pool, Lincoln LN6 7TS<br /> Lincolnshire, United Kingdom
+  University of Lincoln<br /> Charlotte Scott Research Centre for Algebra<br /> Isaac Newton Building, Brayford Pool, Lincoln LN6 7TS<br /> Lincolnshire, United Kingdom
 </address>
 
 <br />

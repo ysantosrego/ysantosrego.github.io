@@ -8,8 +8,9 @@ redirect_from:
   - /conferences.html
 ---
 
-Here you can find links to the mathematics conferences that I (co-)organise(d)[^1]. If the event is forthcoming, you can find a registration form in the corresponding homepage.
+Here you can find links to the mathematics conferences that I (co-)organise(d). If the event is forthcoming, you can find a registration form in the corresponding homepage.
 
+* LMS Midlands Regional Meeting 2025 & Research Workshop _[Groups in the Midlands](/files/LMS-Midlands25/)_, 17-20 June 2025, Lincoln, UK.
 * Mini-Workshop _[Trending aspects in group cohomology](/files/cna/)_, 2-3 July 2024, Lincoln, UK.
 * Conference _[10 Years of Algebra at Lincoln](/files/EK-Algebra10/)_, 12-14 June 2024, Online.
 * GoTh Workshop: _[Groups of Thompson and their relatives](https://trr358.math.uni-bielefeld.de/workshops/view/146)_, 18-22 September 2023, Magdeburg, Germany.
@@ -20,4 +21,3 @@ Here you can find links to the mathematics conferences that I (co-)organise(d)[^
 * [_Buildings_ 2019](https://www.geometry.ovgu.de/buildings.html), 30 September - 2 October 2019, Magdeburg, Germany.
 * Block Seminar _[Arithmetic groups and rigidity](https://www.spp2026.de/activities/detail/activity/seminar-arithmetic-groups-and-rigidity)_, 21-23 March 2018, Bielefeld, Germany.
 
-[^1]: Useless trivia: So far I have helped organise more scientific events than my (research) papers have been published. Let's see if it is feasible to keep this going!

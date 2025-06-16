@@ -28,8 +28,6 @@ Below you can find a list of my academic publications.
 
 ### Preprints and/or under revision
 
-* _Involutions in Coxeter groups_, Preprint, 31 pages. \[Joint with [Anna Reimann](https://web.mathi.uni-heidelberg.de/ggt/reimann), [Petra Schwer](https://web.mathi.uni-heidelberg.de/ggt/schwer) and [Olga Varghese](https://sites.google.com/view/olga-varghese)\]  
-([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>arXiv:2404.03283](https://arxiv.org/abs/2404.03283))
 * _Reidemeister numbers for arithmetic Borel subgroups in type A_, Preprint, 30 pages. \[Joint with [Paula Macedo Lins de Araujo](https://paulalins.com/)\]  
 ([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>arXiv:2306.02936](https://arxiv.org/abs/2306.02936); [Oberwolfach Report](https://doi.org/10.14760/OWR-2020-16))
 * _Split-braid-merge diagrams, 3-manifolds, and conjugacy in a braided Thompson group_, Preprint, 57 pages. \[Joint with [Kai-Uwe Bux](https://www.math.uni-bielefeld.de/~bux/)\]  
@@ -38,8 +36,10 @@ Below you can find a list of my academic publications.
 ([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>arXiv:1801.05320](https://arxiv.org/abs/1801.05320))
 
 ### Published or accepted
-* _Twisted conjugacy in soluble arithmetic groups_, **Mathematische Nachrichten** (2024+), to appear, 35 pages. \[Joint with [Paula Macedo Lins de Araujo](https://paulalins.com/)\]  
-([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>arXiv:2007.02988v3](https://arxiv.org/abs/2007.02988v3))
+* _Involutions in Coxeter groups_, **Algebras and Representation Theory** (2025), vol. 28, pp. 647--667. \[Joint with [Anna Reimann](https://web.mathi.uni-heidelberg.de/ggt/reimann), [Petra Schwer](https://web.mathi.uni-heidelberg.de/ggt/schwer) and [Olga Varghese](https://sites.google.com/view/olga-varghese)\]  
+([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>journal](https://doi.org/10.1007/s10468-025-10332-x))
+* _Twisted conjugacy in soluble arithmetic groups_, **Mathematische Nachrichten** (2025), vol. 298, no. 3, pp. 763--793. \[Joint with [Paula Macedo Lins de Araujo](https://paulalins.com/)\]  
+([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>journal](https://doi.org/10.1002/mana.202300448))
 * _The Sigma invariants for the golden mean Thompson group_, **The New York Journal of Mathematics** (2024), vol. 30, pp. 532--549. \[Joint with [Lewis Molyneux](https://pure.royalholloway.ac.uk/en/persons/lewis-molyneux) and [Brita Nucinkis](https://www.ma.rhul.ac.uk/~uxah002/)\]  
 ([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>journal](https://nyjm.albany.edu/j/2024/30-23.html))
 * _The galaxy of Coxeter groups_, **Journal of Algebra** (2024), vol. 656, 406--445. \[Joint with [Petra Schwer](https://web.mathi.uni-heidelberg.de/ggt/schwer)\]  
@@ -55,7 +55,7 @@ Below you can find a list of my academic publications.
 * _Formalization in PVS of balancing properties necessary for proving security of the Dolev--Yao cascade protocol model_, **Journal of Formalized Reasoning** (2013), vol. 6, no. 1, 31--61. \[Joint with [Maurício Ayala-Rincón](http://www.mat.unb.br/ayala/)\]  
  ([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>journal](http://dx.doi.org/10.6092/issn.1972-5787/3720); full PVS theory: [PVS 5.n](http://www.mat.unb.br/ayala/DY_Full_Theory.tgz), [PVS 6.0](http://www.mat.unb.br/ayala/DY_Full_TheoryPVS6.tgz))
 
-## Further academic work
+## Further (written) academic work
 
 * _Profinite rigidity, homology, and Coxeter groups_, Extended abstract, in: "Homological aspects for TDLC-groups" \[I. Castellano, N. Mazza, B. Nucinkis, R. Sauer (orgs.)\], **Oberwolfach Reports** (2023), vol. 20, no. 4, 3121--3124. 
 ([<img src="/images/OA-logo.svg" decoding="async" width="10" height="16" class="mw-file-element" srcset="/images/OA-logo.svg 1.5x, /images/OA-logo.svg 2x" data-file-width="640" data-file-height="1000"/>journal](https://doi.org/10.4171/owr/2023/55))

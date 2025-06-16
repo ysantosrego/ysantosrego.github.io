@@ -14,10 +14,10 @@ I am also a member of the [London Mathematical Society](https://www.lms.ac.uk/) 
 
 #### Past journey
 
-Prior to joining the [School of Mathematics and Physics](https://www.lincoln.ac.uk/smp/) here in Lincoln, I was a _wissenschaftlicher Mitarbeiter_ in the group of [Petra Schwer](https://www.geometry.ovgu.de/) at the Otto-von-Guericke-Universität Magdeburg, an associated fellow of the GRK2297 "Mathematical Complexity Reduction" ([MathCoRe](https://www.mathcore.ovgu.de/)), and a researcher in the SPP2026 "[Geometry at Infinity](https://www.spp2026.de/)".
+Prior to joining the [Mathematics & Physics Team](https://lincolnmathsphys.wordpress.com/) here in Lincoln, I was a _wissenschaftlicher Mitarbeiter_ working with [Petra Schwer](https://web.mathi.uni-heidelberg.de/ggt/schwer) at the Otto-von-Guericke-Universität Magdeburg, an associated fellow of the GRK2297 "Mathematical Complexity Reduction" ([MathCoRe](https://www.mathcore.ovgu.de/)), and a researcher in the SPP2026 "[Geometry at Infinity](https://www.spp2026.de/)".
 
 I got my PhD from the Universität Bielefeld, advised by [Kai-Uwe Bux](https://www.math.uni-bielefeld.de/~bux/). Before that I got my Master's degree from the Universidade Estadual de Campinas (Unicamp) supervised by [Dessislava Kochloukova](https://www.ime.unicamp.br/~desi/), and my Bachelor's degree from the Universidade de Brasília (UnB). In Brasília I was also a member of the groups [PETMat-UnB](https://mat.unb.br/pet/) and [Theory of Computation](https://mat.unb.br/~ayala/TCgroup/index.html) under the guidance of [Mauro Rabelo](https://mat.unb.br/index.php/pessoas/docentes/52-mauro-luiz-rabelo) and [Maurício Ayala-Rincón](http://www.mat.unb.br/ayala/), respectively. 
 
-[^1]: 🇬🇧 Lecturer ≈ 🇩🇪 unbefristete Juniorprofessur mit strukturiertem Karriereaufstieg auf Professur ≈ 🇧🇷 professor adjunto ≈ 🇧🇪 docent/premier assistant ≈ 🇺🇸 assistant professor (pre-tenure).
+[^1]: 🇬🇧 Lecturer ≈ 🇩🇪 unbefristete Juniorprofessur mit strukturiertem Karriereaufstieg ≈ 🇧🇷 professor adjunto ≈ 🇧🇪 docent/premier assistant ≈ 🇫🇷 maître de conférences ≈ 🇺🇸 assistant professor (pre-tenure). 
 
 [^2]: Here "book" is quite flexible and can mean: popular or scientific books about mathematics, teaching maths, history of mathematics, and/or mathematicians; academic maths books (textbooks, lecture notes published in book format, research books, books about maths didactics...); but also exhibitions and films about mathematics!
